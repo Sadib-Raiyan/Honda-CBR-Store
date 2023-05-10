@@ -1,0 +1,123 @@
+body{
+    margin: 0 0;
+    padding: 0 0;
+    font-family: 'Poppins', sans-serif;
+}
+.customNavbar{
+    background-color: #264653;
+}
+.nav-item a{
+    margin-right: 25px !important;
+}
+.logo{
+    width: 100%;
+}
+.btn-warning{
+    background-color: #E76F51 !important;
+    border: 0px;
+}
+.bannerContainerFull{
+    background-color: #264653;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.leftTextWrapper span{
+    font-size: 14px;
+    font-weight: 300;
+}
+.leftTextWrapper h2{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    font-size: 48px;
+    font-weight: 700;
+}
+.leftTextWrapper p{
+    margin-bottom: 30px;
+    font-weight: 300;
+    line-height: 25px;
+}
+.leftTextWrapper button{
+    padding-right: 40px;
+    padding-left: 40px;
+    font-weight: 600;
+    border-radius: 4px;
+}
+.featuredBikes{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.featuredBikesTexts h3{
+    font-size: 48px;
+    font-weight: 600;
+}
+.featuredBikesTexts p{
+    color: #E76F51;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: underline;
+}
+.bikesImageWrapper{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.forGrayscale img{
+    filter: grayscale();
+}
+.happyClient{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.happyClientTextWrapper{
+    margin-bottom: 40px;
+}
+.happyClientTextWrapper span{
+    color: #0A0826;
+    font-size: 48px;
+    font-weight: 600;
+}
+.colorSpan{
+    color: #E76F51 !important;
+}
+.card-body{
+    padding: 35px;
+}
+.userImage{
+    padding: 15px;
+}
+.card-body p{
+    line-height: 25px;
+}
+.card-body p{
+    line-height: 25px;
+}
+.card-body h3{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: #23A6F0;
+    font-size: 14px;
+    font-weight: 600;
+}
+.card-body h4{
+    color: #252B42;
+    font-size: 14px;
+    font-weight: 600;
+}
+.faq{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.mapPaddingDisable{
+    padding: 0px;
+}
+.footer{
+    background-color: #0B0D17;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.footerLinkWrapper a ,  .footerP{
+    color: white !important;
+    text-decoration: none;
+    margin-right: 12px;
+    font-weight: 300;
+}

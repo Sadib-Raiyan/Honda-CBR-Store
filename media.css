@@ -1,0 +1,44 @@
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+    .bannerContainerFull {
+        padding: 10px 3px 10px 3px;
+    }  
+    .leftTextWrapper h2 {
+            padding-top: 10px;
+            padding-bottom: 20px;
+    }
+    .bannerImgWrapper{
+        margin-top: 40px;
+    }
+    .featuredBikes{
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .featuredBikesTexts h3{
+        font-size: 30px;
+        font-weight: 600;
+    }
+    iframe {
+        width: auto;
+    }
+ }
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .card-body{
+        padding: 10px;
+    }
+    iframe {
+        width: auto;
+    }
+ }
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    iframe {
+        width: 100%;
+    }
+    .card-body{
+        padding: 15px;
+    }
+ }
